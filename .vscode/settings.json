@@ -1,0 +1,11 @@
+{
+  "cmake.sourceDirectory": "/home/vertax/perception_ws/src/algriothm_platform",
+  "editor.formatOnSave": true,
+  "clang-format.executable": "/usr/bin/clang-format-9",
+  "python.autoComplete.extraPaths": [
+    "/opt/ros/noetic/lib/python3/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/opt/ros/noetic/lib/python3/dist-packages"
+  ]
+}
